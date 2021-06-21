@@ -1,0 +1,4810 @@
+{
+  "id": "2016-000",
+  "projectId": "3fLR1gKkf5Nudky$yCs9sm",
+  "author": "",
+  "createdAt": "2018-11-26T16:16:00",
+  "schema": "IFC2X3",
+  "creatingApplication": "20170223_1515(x64) - Exporter 18.0.0.420 - Alternate UI 18.0.0.420",
+  "metaObjects": [
+    {
+      "id": "3fLR1gKkf5Nudky$yCs9sm",
+      "name": "2016-000",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB7U",
+      "name": "Surface:2770377",
+      "type": "IfcSite",
+      "parent": "3fLR1gKkf5Nudky$yCs9sm"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$yCs9sn",
+      "name": "MOLIO Huset",
+      "type": "IfcBuilding",
+      "parent": "1XOPXNVaD7shCxHvEzuB7U"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$p9sVq",
+      "name": "Kælder",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA3",
+      "name": "GENERISK - STRUKTUREL 300 x 400:GENERISK - STRUKTUREL 300 x 400:2770580",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA2",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770581",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA0",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770583",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAC",
+      "name": "Basic Wall:Beton - Insitu Udfyldning 588:2770587",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAB",
+      "name": "Basic Wall:Beton - Insitu Udfyldning 588:2770588",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAA",
+      "name": "Basic Wall:Beton - Insitu Udfyldning 588:2770589",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA9",
+      "name": "Basic Wall:Beton - Insitu Udfyldning 588:2770590",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA8",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770591",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAt",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770592",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAq",
+      "name": "Floor:[L]AC 2:2770595",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA$",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770600",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA_",
+      "name": "321 Wall Mounted Sliding Door - No Frame:014 Solid Door_2100x1010:2770601",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAx",
+      "name": "Floor:[L]AC 2:2770604",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAc",
+      "name": "Basic Wall:Beton - Insitu Udfyldning 588:2770609",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAb",
+      "name": "Basic Wall:Beton - Insitu Udfyldning 588:2770610",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAa",
+      "name": "Basic Wall:Beton - Insitu Udfyldning 588:2770611",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAZ",
+      "name": "Basic Wall:Beton - Insitu Udfyldning 588:2770612",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAY",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770613",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAX",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770614",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAW",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770615",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAl",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770616",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAk",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770617",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAj",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770618",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAi",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770619",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAh",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770620",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAg",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770621",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAf",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770622",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAe",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770623",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBN",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770624",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBM",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770625",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBL",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770626",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBK",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1810:2770627",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBJ",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770628",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBI",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770629",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBG",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770631",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBV",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770632",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBU",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770633",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBT",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770634",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBS",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770635",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBR",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770636",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBQ",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770637",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBP",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770638",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBO",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770639",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBB7",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770640",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBB6",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770641",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBB5",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1800:2770642",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBB4",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1810:2770643",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBB1",
+      "name": "Floor:[L]AC 3:2770646",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1un5l_8jn6Pu1YF_UGCGoQ",
+      "name": "Pad:Default:2781995",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "2pexUA3SD4bBRAoa2d$wap",
+      "name": "Cast-In-Place Stair:Stair:2797743",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "2pexUA3SD4bBRAoa2d$wai",
+      "name": "Cast-In-Place Stair:Stair:2797743 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2pexUA3SD4bBRAoa2d$wap"
+    },
+    {
+      "id": "2pexUA3SD4bBRAoa2d$wak",
+      "name": "Railing:011 Generic Railing_1200:2797746",
+      "type": "IfcRailing",
+      "parent": "2pexUA3SD4bBRAoa2d$wap"
+    },
+    {
+      "id": "2pexUA3SD4bBRAoa2d$wag",
+      "name": "Railing:011 Generic Railing_1200:2797750",
+      "type": "IfcRailing",
+      "parent": "2pexUA3SD4bBRAoa2d$wap"
+    },
+    {
+      "id": "0FizqjRp12BwwVpvBxxriz",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2811217",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "17hG6qF_5ADPdZc2RyDzeF",
+      "name": "Molio_Partition Panel 21:Molio_Partition Panel 21:2887999",
+      "type": "IfcWall",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "17hG6qF_5ADPdZc2RyDzfY",
+      "name": "Molio_Partition Panel 21:Molio_Partition Panel 21:2888018",
+      "type": "IfcWall",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwbl",
+      "name": "Cast-In-Place Stair:Stair:3086047",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwbG",
+      "name": "Cast-In-Place Stair:Stair:3086047 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2IOUK9GMHBz9D6OQ19mwbl"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwYs",
+      "name": "Railing:011 Generic Railing_900 2:3086086",
+      "type": "IfcRailing",
+      "parent": "2IOUK9GMHBz9D6OQ19mwbl"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwYv",
+      "name": "Railing:011 Generic Railing_1200:3086089",
+      "type": "IfcRailing",
+      "parent": "2IOUK9GMHBz9D6OQ19mwbl"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrR",
+      "name": "Rum nr. K05",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCmK",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916716",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrR"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmXZ",
+      "name": "Sink  570 mm:Sink  570 mm:2947720",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrR"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJZQ",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105357",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrR"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrQ",
+      "name": "Rum nr. K04",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrP",
+      "name": "Rum nr. K01",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrO",
+      "name": "Rum nr. K07",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCm2",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916730",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrO"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmXx",
+      "name": "Sink  570 mm:Sink  570 mm:2947728",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrO"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJZO",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105359",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrO"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr7",
+      "name": "Rum nr. K11",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr6",
+      "name": "Rum nr. K03",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr5",
+      "name": "Rum nr. K02",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr4",
+      "name": "Rum nr. K09",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr3",
+      "name": "Rum nr. K10",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr2",
+      "name": "Rum nr. K06",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCmB",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916723",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBr2"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmXc",
+      "name": "Sink  570 mm:Sink  570 mm:2947725",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBr2"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJZP",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105358",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBr2"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr1",
+      "name": "Rum nr. K12",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr0",
+      "name": "Rum nr. K04.1",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPa3",
+      "name": "Rum nr. K08",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "0f36RA$8fDB90nZxv5Q0yg",
+      "name": "MOLIO-Furniture3:MOLIO-Furniture3:3094977",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPa3"
+    },
+    {
+      "id": "0f36RA$8fDB90nZxv5Q0fs",
+      "name": "MOLIO-Furniture3:MOLIO-Furniture3:3095709",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPa3"
+    },
+    {
+      "id": "0f36RA$8fDB90nZxv5Q0en",
+      "name": "MOLIO-Furniture3:MOLIO-Furniture3:3095770",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPa3"
+    },
+    {
+      "id": "0f36RA$8fDB90nZxv5Q0e4",
+      "name": "MOLIO-Furniture3:MOLIO-Furniture3:3095791",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPa3"
+    },
+    {
+      "id": "0f36RA$8fDB90nZxv5Q0k9",
+      "name": "MOLIO-Furniture3:MOLIO-Furniture3:3095906",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPa3"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVv9",
+      "name": "MOLIO-Furniture4:MOLIO-Furniture4:3096919",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPa3"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPbz",
+      "name": "Rum nr. K13",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p9sVq"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$p8n40",
+      "name": "Grundplan",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAO",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770575",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA6",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770577",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBA4",
+      "name": "GENERISK - STRUKTUREL 300 x 400:GENERISK - STRUKTUREL 300 x 400:2770579",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBs",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770657",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBq",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770659",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBp",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770660",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBo",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770661",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBn",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770662",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBm",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770663",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBB$",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770664",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBB_",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770665",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBz",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770666",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBy",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 52dB/BS60/4 lag 145 mm 145:2770667",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBx",
+      "name": "321 Integrated Sliding Door - No Frame:014 Solid Door_2100x1010:2770668",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBZ",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770676",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBY",
+      "name": "321 Wall Mounted Sliding Door - No Frame:014 Solid Door_2100x1010:2770677",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBX",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770678",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBW",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770679",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBl",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770680",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBk",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770681",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBj",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770682",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBBi",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770683",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCC",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770715",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCB",
+      "name": "Molio_Window_Single_Side Hung:509x2400mm:2770716",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCA",
+      "name": "Molio_Window_Single_Side Hung:509x2400mm:2770717",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBC9",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 600:2770718",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBC8",
+      "name": "Molio_Window_Single_Side Hung:1800x3012mm:2770719",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCt",
+      "name": "Molio_Window_Single_Side Hung:1812x3012mm:2770720",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCs",
+      "name": "Molio_Window_Single_Side Hung:1800x3012mm:2770721",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCr",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 600:2770722",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCq",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 600:2770723",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCp",
+      "name": "Molio_Window_Single_Side Hung:3972x612mm:2770724",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCo",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770725",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCn",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770726",
+      "type": "IfcWall",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCm",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770727",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBC$",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 600:2770728",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBC_",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 512:2770729",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCz",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 512:2770730",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3OAFDnEzTAWO0wmvs4hyxQ",
+      "name": "Molio_Window_Single_ Fixed:1032x4533:2770731",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3IvtXI11D5bepLVzjeG$Vr",
+      "name": "Molio_Window_Single_ Fixed:1032x5200mm:2770732",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0lLNRaCVr5CxG_DEdnLVZP",
+      "name": "Molio_Window_Single_ Fixed:1032x5200mm:2770733",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3wvXlBcT9A$8ftUzE6f$9X",
+      "name": "Molio_Window_Single_ Fixed:1032x3800mm:2770734",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "2MW2tTlAzFRR6nBLg3byqB",
+      "name": "Molio_Window_Single_ Fixed:1032x3133.333:2770735",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCd",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770736",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCc",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 600:2770737",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCb",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 600:2770738",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCa",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770739",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCZ",
+      "name": "Molio_Window_Double_Side Hung:1812x3012mm 600:2770740",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCY",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770741",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCX",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770742",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCW",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1810:2770743",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCl",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770744",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCk",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770745",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCj",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770746",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCi",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770747",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCh",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770748",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3PQRHS1Tr0q8fr6qzqi1V9",
+      "name": "Cast-In-Place Stair:Stair:2782169",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3PQRHS1Tr0q8fr6qzqi1VA",
+      "name": "Cast-In-Place Stair:Stair:2782169 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "3PQRHS1Tr0q8fr6qzqi1V9"
+    },
+    {
+      "id": "3PQRHS1Tr0q8fr6qzqi1VC",
+      "name": "Cast-In-Place Stair:Stair:2782172",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3PQRHS1Tr0q8fr6qzqi1VD",
+      "name": "Cast-In-Place Stair:Stair:2782172 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "3PQRHS1Tr0q8fr6qzqi1VC"
+    },
+    {
+      "id": "0FizqjRp12BwwVpvBxxrkk",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2811330",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1lVkXCdFH4OBwOwACwrGOy",
+      "name": "Molio_Elevator Car:Molio_Elevator Car:2878200",
+      "type": "IfcTransportElement",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3LlY_JLv9DGBjvoav2iLL3",
+      "name": "Cast-In-Place Stair:Stair:2911983",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3LlY_JLv9DGBjvoav2iLLS",
+      "name": "Cast-In-Place Stair:Stair:2911983 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "3LlY_JLv9DGBjvoav2iLL3"
+    },
+    {
+      "id": "3LlY_JLv9DGBjvoav2iLLU",
+      "name": "Railing:011 Generic Railing_900 2:2911986",
+      "type": "IfcRailing",
+      "parent": "3LlY_JLv9DGBjvoav2iLL3"
+    },
+    {
+      "id": "3LlY_JLv9DGBjvoav2iLLP",
+      "name": "Railing:011 Generic Railing_1200:2911989",
+      "type": "IfcRailing",
+      "parent": "3LlY_JLv9DGBjvoav2iLL3"
+    },
+    {
+      "id": "3WoIUOT$r8DB0VInyxX2IZ",
+      "name": "Molio_Revolving Door:Molio_Revolving Door:3020572",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3XDjwTGHD5RB4sbT5kJiZs",
+      "name": "Floor:[L]AC 4:3071442",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3XDjwTGHD5RB4sbT5kJiZz",
+      "name": "Floor:[L]AC 5:3071449",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwaG",
+      "name": "Cast-In-Place Stair:Stair:3085984",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwaH",
+      "name": "Cast-In-Place Stair:Stair:3085984 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2IOUK9GMHBz9D6OQ19mwaG"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwaJ",
+      "name": "Railing:011 Generic Railing_1200:3085987",
+      "type": "IfcRailing",
+      "parent": "2IOUK9GMHBz9D6OQ19mwaG"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwaM",
+      "name": "Railing:011 Generic Railing_1200:3085990",
+      "type": "IfcRailing",
+      "parent": "2IOUK9GMHBz9D6OQ19mwaG"
+    },
+    {
+      "id": "2o7uyTOKv6xAaIibT27_my",
+      "name": "011 Model Pin_2:Model Pin:3100751",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0$BLWrSor2efeapxImMnGR",
+      "name": "Railing:011 Generic Railing_1200:2884976",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0$BLWrSor2efeapxImMnYZ",
+      "name": "Railing:011 Generic Railing_1200:2886088",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0wy1ada21CzRuJF58F9u1o",
+      "name": "Railing:011 Generic Railing_1200:2907570",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrF",
+      "name": "Rum nr. S11",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCpP",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916769",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrF"
+    },
+    {
+      "id": "0ykZG0ZHf0OP22GkWV_Hx9",
+      "name": "Sink  570 mm:Sink  570 mm:2945495",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrF"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJYG",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105287",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrF"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrE",
+      "name": "Rum nr. S02",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1z5tGqWU1BGAP$M4CgORz5",
+      "name": "MOLIO-Reception Desk:MOLIO-Reception Desk:2895101",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrE"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrD",
+      "name": "Rum nr. S12",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrC",
+      "name": "Rum nr. S07",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrB",
+      "name": "Rum nr. S08",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCph",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916755",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrB"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJYI",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105285",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrB"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrA",
+      "name": "Rum nr. S10",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCpY",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916762",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrA"
+    },
+    {
+      "id": "0ykZG0ZHf0OP22GkWV_HyM",
+      "name": "Sink  570 mm:Sink  570 mm:2945032",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrA"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJYH",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105286",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrA"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr9",
+      "name": "Rum nr. S07.1",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPbx",
+      "name": "Rum nr. S06",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "30othEteDFw8NmoqoiHxkw",
+      "name": "MOLIO-equipment2:MOLIO-Double Sink:2955505",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPbx"
+    },
+    {
+      "id": "30othEteDFw8NmoqoiHxxK",
+      "name": "MOLIO-equipment3:MOLIO-Range:2956703",
+      "type": "IfcFlowTerminal",
+      "parent": "0WnvUZ6p1AaObXFKBFYPbx"
+    },
+    {
+      "id": "1xNq8$Q898KAqZDEjs3MfO",
+      "name": "MOLIO-equipment4:MOLIO-Refrigerator:2957654",
+      "type": "IfcFlowTerminal",
+      "parent": "0WnvUZ6p1AaObXFKBFYPbx"
+    },
+    {
+      "id": "1JC_i86VD9mOz_tBr5zrFq",
+      "name": "MOLIO-Furniture1:MOLIO-Furniture1:3091774",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPbx"
+    },
+    {
+      "id": "1JC_i86VD9mOz_tBr5zr3j",
+      "name": "MOLIO-Furniture1:MOLIO-Furniture1:3092007",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPbx"
+    },
+    {
+      "id": "1JC_i86VD9mOz_tBr5zr3b",
+      "name": "MOLIO-Furniture1:MOLIO-Furniture1:3092015",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPbx"
+    },
+    {
+      "id": "1JC_i86VD9mOz_tBr5zr3p",
+      "name": "MOLIO-Furniture1:MOLIO-Furniture1:3092025",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPbx"
+    },
+    {
+      "id": "1JC_i86VD9mOz_tBr5zqpp",
+      "name": "MOLIO-Furniture2:MOLIO-Furniture2:3093049",
+      "type": "IfcFurnishingElement",
+      "parent": "0WnvUZ6p1AaObXFKBFYPbx"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPbr",
+      "name": "Rum nr. S05",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPbt",
+      "name": "Rum nr. S09",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPbn",
+      "name": "Rum nr. S01",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "2ZpQasqJ9DNPYvtcdieVV3",
+      "name": "Rum nr. S03",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n40"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$p8n7m",
+      "name": "1. Sal",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB52",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770261",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAT",
+      "name": "GENERISK - STRUKTUREL 300 x 400:GENERISK - STRUKTUREL 300 x 400:2770570",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAS",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770571",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAQ",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770573",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCg",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770749",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCf",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770750",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBCe",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770751",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDN",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770752",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDM",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770753",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDU",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770761",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDT",
+      "name": "321 Wall Mounted Sliding Door - No Frame:014 Solid Door_2100x1010:2770762",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDS",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770763",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDR",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770764",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDQ",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770765",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDP",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1810:2770766",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDO",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770767",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBD7",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770768",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBD6",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770769",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBD5",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770770",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBD4",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770771",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBD3",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770772",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBD2",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770773",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDW",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770807",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDl",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770808",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDk",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770809",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDj",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770810",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDi",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770811",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDh",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770812",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDg",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770813",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDf",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770814",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBDe",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770815",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEN",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770816",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEM",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770817",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEK",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770819",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEJ",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770820",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEI",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770821",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEH",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770822",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEG",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770823",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEV",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770824",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEU",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770825",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBET",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770826",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBES",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770827",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBER",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770828",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEQ",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770829",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEP",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770830",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEO",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2770831",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE7",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770832",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE6",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2770833",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE5",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770834",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE4",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770835",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE3",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770836",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE2",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770837",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE1",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770838",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE0",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770839",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEF",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770840",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEE",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770841",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBED",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770842",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEC",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770843",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEB",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770844",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEA",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770845",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "0FizqjRp12BwwVpvBxxrXC",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2811424",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "3XDjwTGHD5RB4sbT5kJlGk",
+      "name": "Floor:[L]AC 4:3072266",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "3XDjwTGHD5RB4sbT5kJlGq",
+      "name": "Floor:[L]AC 5:3072272",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwVZ",
+      "name": "Cast-In-Place Stair:Stair:3086419",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwVa",
+      "name": "Cast-In-Place Stair:Stair:3086419 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2IOUK9GMHBz9D6OQ19mwVZ"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwVc",
+      "name": "Railing:011 Generic Railing_1200:3086422",
+      "type": "IfcRailing",
+      "parent": "2IOUK9GMHBz9D6OQ19mwVZ"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwVf",
+      "name": "Railing:011 Generic Railing_1200:3086425",
+      "type": "IfcRailing",
+      "parent": "2IOUK9GMHBz9D6OQ19mwVZ"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwSY",
+      "name": "Cast-In-Place Stair:Stair:3086482",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwSZ",
+      "name": "Cast-In-Place Stair:Stair:3086482 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2IOUK9GMHBz9D6OQ19mwSY"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwSb",
+      "name": "Railing:011 Generic Railing_900 2:3086485",
+      "type": "IfcRailing",
+      "parent": "2IOUK9GMHBz9D6OQ19mwSY"
+    },
+    {
+      "id": "2IOUK9GMHBz9D6OQ19mwSe",
+      "name": "Railing:011 Generic Railing_1200:3086488",
+      "type": "IfcRailing",
+      "parent": "2IOUK9GMHBz9D6OQ19mwSY"
+    },
+    {
+      "id": "0wy1ada21CzRuJF58F9ufu",
+      "name": "Railing:011 Generic Railing_1200:2906040",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6uev",
+      "name": "Railing:011 Generic Railing_1200:2911370",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6uel",
+      "name": "Railing:011 Generic Railing_1200:2911388",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr8",
+      "name": "Rum nr. 112",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCs_",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916550",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBr8"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmWt",
+      "name": "Sink  570 mm:Sink  570 mm:2947804",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBr8"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJjP",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105230",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBr8"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrt",
+      "name": "Rum nr. 111",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCt7",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916543",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrt"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmWo",
+      "name": "Sink  570 mm:Sink  570 mm:2947801",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrt"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJjQ",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105229",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrt"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrs",
+      "name": "Rum nr. 114",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrr",
+      "name": "Rum nr. 115",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrq",
+      "name": "Rum nr. 116",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrp",
+      "name": "Rum nr. 108",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBro",
+      "name": "Rum nr. 109",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrn",
+      "name": "Rum nr. 103",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "3pw94VO$DDXvh0ldvOBg3E",
+      "name": "MOLIO-equipment1:MOLIO-Sink:2953860",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrn"
+    },
+    {
+      "id": "3vXdaoponFwAOgAO5$ZjgR",
+      "name": "MOLIO-equipment5:MOLIO-Dish Washer:2961538",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrn"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVcx",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3098277",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrn"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVXu",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3098470",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrn"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVZD",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3098579",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrn"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVZA",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3098580",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrm",
+      "name": "Rum nr. 110",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCt0",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916536",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrm"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmW$",
+      "name": "Sink  570 mm:Sink  570 mm:2947796",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrm"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJjR",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105228",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrm"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr$",
+      "name": "Rum nr. 109.1",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBr_",
+      "name": "Rum nr. 102",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrz",
+      "name": "Rum nr. 104",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBry",
+      "name": "Rum nr. 106",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrx",
+      "name": "Rum nr. 105",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrw",
+      "name": "Rum nr. 107",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrv",
+      "name": "Rum nr. 113",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "1$r2Wa22T4JvNzsC4omce7",
+      "name": "Rum nr. 101",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "0GW3vSW959xwmb44rBNCW1",
+      "name": "Rum nr. K15",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n7m"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$p8n61",
+      "name": "2. Sal",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAI",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770565",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAG",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770567",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAU",
+      "name": "GENERISK - STRUKTUREL 300 x 400:GENERISK - STRUKTUREL 300 x 400:2770569",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE9",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770846",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBE8",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770847",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEt",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770848",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEs",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770849",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEr",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770850",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBEq",
+      "name": "321 Wall Mounted Sliding Door - No Frame:014 Solid Door_2100x1010:2770851",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFJ",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770884",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFI",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770885",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFH",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770886",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFG",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770887",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFV",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770888",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFU",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770889",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFT",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770890",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFS",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2770891",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFR",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770892",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFQ",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770893",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFP",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770894",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF7",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770896",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF6",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770897",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF5",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770898",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF4",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770899",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF3",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770900",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF2",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770901",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF1",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770902",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF0",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770903",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFF",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770904",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFE",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770905",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFD",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770906",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFC",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770907",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFB",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770908",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFA",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770909",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF9",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770910",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF8",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770911",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFt",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770912",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFs",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770913",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFr",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1810:2770914",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFq",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770915",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFp",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770916",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFo",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770917",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFn",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2770918",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFm",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770919",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF$",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770920",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBF_",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770921",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFz",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770922",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFy",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2770923",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFx",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770924",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFw",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770925",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFv",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2770926",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFu",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770927",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFd",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770928",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFc",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770929",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFb",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770930",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFa",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770931",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFZ",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770932",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFY",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770933",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFX",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770934",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFW",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770935",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFl",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770936",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFk",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770937",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFj",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770938",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFi",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770939",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFh",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2770940",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFg",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770941",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0FizqjRp12BwwVpvBxxrZh",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2811527",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0rQhzT$qv27uF4MrOlup_u",
+      "name": "Floor:[L]AC 4:3072432",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0rQhzT$qv27uF4MrOlup__",
+      "name": "Floor:[L]AC 5:3072438",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "3DzOskKfb48R8NcaYHJeeN",
+      "name": "Cast-In-Place Stair:Stair:3086419:2",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1IU9EozSrByRzPLJ4MbFhc",
+      "name": "Cast-In-Place Stair:Stair:3086419 Run 1:2",
+      "type": "IfcStairFlight",
+      "parent": "3DzOskKfb48R8NcaYHJeeN"
+    },
+    {
+      "id": "3ExSouzLXFj8t$WWFdfanG",
+      "name": "Railing:011 Generic Railing_1200:3086422",
+      "type": "IfcRailing",
+      "parent": "3DzOskKfb48R8NcaYHJeeN"
+    },
+    {
+      "id": "0XlCwkNvX2UgMkvxDNihf5",
+      "name": "Railing:011 Generic Railing_1200:3086425",
+      "type": "IfcRailing",
+      "parent": "3DzOskKfb48R8NcaYHJeeN"
+    },
+    {
+      "id": "1EUrpvXjT2OgHkX9RlLo$0",
+      "name": "Cast-In-Place Stair:Stair:3086482:2",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0wG5WVqTzCn8$ogmk0P_cR",
+      "name": "Cast-In-Place Stair:Stair:3086482 Run 1:2",
+      "type": "IfcStairFlight",
+      "parent": "1EUrpvXjT2OgHkX9RlLo$0"
+    },
+    {
+      "id": "0mTOneKhDAJ946qMEoSV7M",
+      "name": "Railing:011 Generic Railing_900 2:3086485",
+      "type": "IfcRailing",
+      "parent": "1EUrpvXjT2OgHkX9RlLo$0"
+    },
+    {
+      "id": "3r2O4oJ016VxKEYpT5rXqd",
+      "name": "Railing:011 Generic Railing_1200:3086488",
+      "type": "IfcRailing",
+      "parent": "1EUrpvXjT2OgHkX9RlLo$0"
+    },
+    {
+      "id": "0wy1ada21CzRuJF58F9u3D",
+      "name": "Railing:011 Generic Railing_1200:2907405",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6ufs",
+      "name": "Railing:011 Generic Railing_1200:2911429",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6ufa",
+      "name": "Railing:011 Generic Railing_1200:2911447",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBru",
+      "name": "Rum nr. 215",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrd",
+      "name": "Rum nr. 214",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrc",
+      "name": "Rum nr. 216",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrb",
+      "name": "Rum nr. 205",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPB3Ag",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916306",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrb"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBra",
+      "name": "Rum nr. 208.1",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrZ",
+      "name": "Rum nr. 206",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPB3Ao",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916298",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrZ"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrY",
+      "name": "Rum nr. 203",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "3pw94VO$DDXvh0ldvOBgP1",
+      "name": "MOLIO-equipment1:MOLIO-Sink:2954251",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrY"
+    },
+    {
+      "id": "0DANGm4Bz3TeYqFUVh1p7o",
+      "name": "MOLIO-equipment5:MOLIO-Dish Washer:2961716",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrY"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVQS",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099010",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrY"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVQT",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099011",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrY"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVQQ",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099012",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrY"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVQR",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099013",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBrY"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrX",
+      "name": "Rum nr. 202",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrW",
+      "name": "Rum nr. 204",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPB3AY",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916314",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrW"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrl",
+      "name": "Rum nr. 213",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrk",
+      "name": "Rum nr. 207",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPB3Aw",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916290",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrk"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrj",
+      "name": "Rum nr. 208",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBri",
+      "name": "Rum nr. 211",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPB3B2",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916282",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBri"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmd0",
+      "name": "Sink  570 mm:Sink  570 mm:2947883",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBri"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJi2",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105173",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBri"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrh",
+      "name": "Rum nr. 209",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPB3BI",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916266",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrh"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmd8",
+      "name": "Sink  570 mm:Sink  570 mm:2947875",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrh"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJi4",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105171",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrh"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrg",
+      "name": "Rum nr. 210",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPB3BA",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916274",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBrg"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmd3",
+      "name": "Sink  570 mm:Sink  570 mm:2947880",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrg"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJi3",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105172",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBrg"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrf",
+      "name": "Rum nr. 212",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPbb",
+      "name": "Rum nr. 201",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p8n61"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$pDU1Y",
+      "name": "3. Sal",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAN",
+      "name": "GENERISK - STRUKTUREL 300 x 400:GENERISK - STRUKTUREL 300 x 400:2770560",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAM",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770561",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBAK",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770563",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFf",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2770942",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBFe",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770943",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmN",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770944",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmM",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770945",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmL",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770946",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmK",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770947",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmJ",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770948",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmI",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770949",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmH",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770950",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmG",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770951",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmV",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770952",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmU",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770953",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmT",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770954",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmn",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770982",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmm",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2770983",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBm$",
+      "name": "321 Wall Mounted Sliding Door - No Frame:014 Solid Door_2100x1010:2770984",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBm_",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770985",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmz",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770986",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmy",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770987",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmx",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770988",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmw",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770989",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmv",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2770990",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmu",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770991",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmd",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2770992",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmc",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770993",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmb",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2770994",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBma",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2770995",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmZ",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770996",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmY",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2770997",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmX",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2770998",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmW",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2770999",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBml",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771000",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmk",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2771001",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmj",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771002",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmi",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771003",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmh",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771004",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmg",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771005",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBmf",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771006",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBme",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771007",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnN",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771008",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnM",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771009",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnL",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771010",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnK",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771011",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnJ",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771012",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnI",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771013",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnG",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771015",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnV",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771016",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnU",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771017",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnT",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771018",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnS",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771019",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnR",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771020",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnQ",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771021",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnP",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771022",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnO",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2771023",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn7",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771024",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn6",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1810:2771025",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn5",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771026",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn4",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771027",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn3",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771028",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn2",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771029",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn1",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771030",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn0",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771031",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnF",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771032",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0FizqjRp12BwwVpvBxxrYu",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2811604",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q2V",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916910",
+      "type": "IfcCovering",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0rQhzT$qv27uF4MrOlupmJ",
+      "name": "Floor:[L]AC 4:3072539",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0rQhzT$qv27uF4MrOlupmf",
+      "name": "Floor:[L]AC 5:3072545",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1pSgVgUof00fcua9$6kUju",
+      "name": "Cast-In-Place Stair:Stair:3086419:3",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0WUfp$pzX9TOwgmmuntRLn",
+      "name": "Cast-In-Place Stair:Stair:3086419 Run 1:3",
+      "type": "IfcStairFlight",
+      "parent": "1pSgVgUof00fcua9$6kUju"
+    },
+    {
+      "id": "0Bgtt_V21FyQL9yPGtPPQ3",
+      "name": "Railing:011 Generic Railing_1200:3086422",
+      "type": "IfcRailing",
+      "parent": "1pSgVgUof00fcua9$6kUju"
+    },
+    {
+      "id": "2jYYEQWATEHg3ZhjRmxeCz",
+      "name": "Railing:011 Generic Railing_1200:3086425",
+      "type": "IfcRailing",
+      "parent": "1pSgVgUof00fcua9$6kUju"
+    },
+    {
+      "id": "1yUgTxXKL1MfXYMsXq0lg5",
+      "name": "Cast-In-Place Stair:Stair:3086482:3",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "26cN1jIzz09fn5aMpRBqLJ",
+      "name": "Cast-In-Place Stair:Stair:3086482 Run 1:3",
+      "type": "IfcStairFlight",
+      "parent": "1yUgTxXKL1MfXYMsXq0lg5"
+    },
+    {
+      "id": "3zpoHT00b6C8gkiRPU9Anc",
+      "name": "Railing:011 Generic Railing_900 2:3086485",
+      "type": "IfcRailing",
+      "parent": "1yUgTxXKL1MfXYMsXq0lg5"
+    },
+    {
+      "id": "1YzMb2WcPE$hvzQ8V2coRz",
+      "name": "Railing:011 Generic Railing_1200:3086488",
+      "type": "IfcRailing",
+      "parent": "1yUgTxXKL1MfXYMsXq0lg5"
+    },
+    {
+      "id": "0wy1ada21CzRuJF58F9u3k",
+      "name": "Railing:011 Generic Railing_1200:2907438",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6ukp",
+      "name": "Railing:011 Generic Railing_1200:2911488",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6ukX",
+      "name": "Railing:011 Generic Railing_1200:2911506",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBre",
+      "name": "Rum nr. 313",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsN",
+      "name": "Rum nr. 309",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCsT",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916581",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsN"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmcP",
+      "name": "Sink  570 mm:Sink  570 mm:2947954",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsN"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJl6",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105105",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsN"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsM",
+      "name": "Rum nr. 314",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsL",
+      "name": "Rum nr. 308.1",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsK",
+      "name": "Rum nr. 310",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCsK",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916588",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsK"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmcS",
+      "name": "Sink  570 mm:Sink  570 mm:2947959",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsK"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJl5",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105106",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsK"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsJ",
+      "name": "Rum nr. 311",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCsB",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916595",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsJ"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmcH",
+      "name": "Sink  570 mm:Sink  570 mm:2947962",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsJ"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJl4",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105107",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsJ"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsI",
+      "name": "Rum nr. 316",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsH",
+      "name": "Rum nr. 315",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsG",
+      "name": "Rum nr. 303",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "3pw94VO$DDXvh0ldvOBgRG",
+      "name": "MOLIO-equipment1:MOLIO-Sink:2954394",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsG"
+    },
+    {
+      "id": "0DANGm4Bz3TeYqFUVh1p9s",
+      "name": "MOLIO-equipment5:MOLIO-Dish Washer:2962090",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsG"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVGo",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099436",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsG"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVGp",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099437",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsG"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVGm",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099438",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsG"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVGn",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099439",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsG"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsV",
+      "name": "Rum nr. 302",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsU",
+      "name": "Rum nr. 308",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsT",
+      "name": "Rum nr. 304",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q24",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916917",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsT"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsS",
+      "name": "Rum nr. 307",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q2H",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916896",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsS"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsR",
+      "name": "Rum nr. 306",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q2M",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916903",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsR"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPaQ",
+      "name": "Rum nr. 305",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPaK",
+      "name": "Rum nr. 312",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPbH",
+      "name": "Rum nr. 301",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU1Y"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$pDU0a",
+      "name": "4. Sal",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB9i",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770555",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB9g",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770557",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB9e",
+      "name": "GENERISK - STRUKTUREL 300 x 400:GENERISK - STRUKTUREL 300 x 400:2770559",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBnm",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2771047",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBn$",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771048",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoJ",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2771076",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoI",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2771077",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoH",
+      "name": "321 Wall Mounted Sliding Door - No Frame:014 Solid Door_2100x1010:2771078",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoG",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771079",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoV",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771080",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoU",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771081",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoT",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771082",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoS",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771083",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoR",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771084",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoQ",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771085",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoP",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771086",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoO",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771087",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo7",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771088",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo6",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771089",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo5",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771090",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo4",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771091",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo3",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771092",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo2",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771093",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo1",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771094",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo0",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771095",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoF",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771096",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoE",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2771097",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoD",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771098",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoC",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1810:2771099",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoB",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771100",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoA",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771101",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo9",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771102",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo8",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771103",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBot",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771104",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBos",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771105",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBor",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771106",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoq",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771107",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBop",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771108",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoo",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771109",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBon",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2771110",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBom",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771111",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo$",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771112",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBo_",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771113",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoz",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771114",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoy",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771115",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBox",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2771116",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBow",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771117",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBov",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771118",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBou",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771119",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBod",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2771120",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoc",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771121",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBob",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771122",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoa",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771123",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoZ",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771124",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoY",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771125",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoX",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771126",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoW",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2771127",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBol",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771128",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBok",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771129",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoj",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771130",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoi",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771131",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBog",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771133",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBof",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2771134",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBoe",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771135",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpN",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2771136",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpM",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771137",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0FizqjRp12BwwVpvBxxrbE",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2811682",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q3O",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916969",
+      "type": "IfcCovering",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0rQhzT$qv27uF4MrOlupoE",
+      "name": "Floor:[L]AC 4:3072646",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0rQhzT$qv27uF4MrOlupo4",
+      "name": "Floor:[L]AC 5:3072652",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "29Wfp6ThDF8BYf86KixeB4",
+      "name": "Cast-In-Place Stair:Stair:3086419:4",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0sY5hgm$PD2BcZ6LdUiKc2",
+      "name": "Cast-In-Place Stair:Stair:3086419 Run 1:4",
+      "type": "IfcStairFlight",
+      "parent": "29Wfp6ThDF8BYf86KixeB4"
+    },
+    {
+      "id": "1jQghxR1X0Fvx1EVh0QWXr",
+      "name": "Railing:011 Generic Railing_1200:3086422",
+      "type": "IfcRailing",
+      "parent": "29Wfp6ThDF8BYf86KixeB4"
+    },
+    {
+      "id": "3RvP9vB$j0zPqIqsocuSEl",
+      "name": "Railing:011 Generic Railing_1200:3086425",
+      "type": "IfcRailing",
+      "parent": "29Wfp6ThDF8BYf86KixeB4"
+    },
+    {
+      "id": "3nEhOHRp11avo1HOl6Z0iv",
+      "name": "Cast-In-Place Stair:Stair:3086482:4",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0VTOE3ryP92Q5qECJkxFaG",
+      "name": "Cast-In-Place Stair:Stair:3086482 Run 1:4",
+      "type": "IfcStairFlight",
+      "parent": "3nEhOHRp11avo1HOl6Z0iv"
+    },
+    {
+      "id": "0r4ubKQ8b4RfOw2QMjmKPR",
+      "name": "Railing:011 Generic Railing_900 2:3086485",
+      "type": "IfcRailing",
+      "parent": "3nEhOHRp11avo1HOl6Z0iv"
+    },
+    {
+      "id": "0geu5NTR5FyfyMoD3ME18c",
+      "name": "Railing:011 Generic Railing_1200:3086488",
+      "type": "IfcRailing",
+      "parent": "3nEhOHRp11avo1HOl6Z0iv"
+    },
+    {
+      "id": "0wy1ada21CzRuJF58F9u2F",
+      "name": "Railing:011 Generic Railing_1200:2907471",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6uk8",
+      "name": "Railing:011 Generic Railing_1200:2911547",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6ul_",
+      "name": "Railing:011 Generic Railing_1200:2911565",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsQ",
+      "name": "Rum nr. 415",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsP",
+      "name": "Rum nr. 413",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsO",
+      "name": "Rum nr. 411",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCnO",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916640",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsO"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmaY",
+      "name": "Sink  570 mm:Sink  570 mm:2948041",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsO"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJeN",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3104896",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsO"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs7",
+      "name": "Rum nr. 402",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs6",
+      "name": "Rum nr. 407",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q3g",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916955",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBs6"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs5",
+      "name": "Rum nr. 409",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCng",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916626",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBs5"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmag",
+      "name": "Sink  570 mm:Sink  570 mm:2948033",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBs5"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDGPP",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3103950",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBs5"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs3",
+      "name": "Rum nr. 404",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q31",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916976",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBs3"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs2",
+      "name": "Rum nr. 406",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q3J",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916962",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBs2"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs1",
+      "name": "Rum nr. 414",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs0",
+      "name": "Rum nr. 403",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "3pw94VO$DDXvh0ldvOBgQK",
+      "name": "MOLIO-equipment1:MOLIO-Sink:2954462",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBs0"
+    },
+    {
+      "id": "0DANGm4Bz3TeYqFUVh1p9m",
+      "name": "MOLIO-equipment5:MOLIO-Dish Washer:2962092",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBs0"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVHJ",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099469",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBs0"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVHG",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099470",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBs0"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVHH",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099471",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBs0"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVHE",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099472",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBs0"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsF",
+      "name": "Rum nr. 416",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsE",
+      "name": "Rum nr. 410",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCnX",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916633",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsE"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmaj",
+      "name": "Sink  570 mm:Sink  570 mm:2948038",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsE"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDGG$",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3104424",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsE"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsD",
+      "name": "Rum nr. 408",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsC",
+      "name": "Rum nr. 408.1",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPb5",
+      "name": "Rum nr. 405",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPb7",
+      "name": "Rum nr. 412",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "0WnvUZ6p1AaObXFKBFYPb1",
+      "name": "Rum nr. 401",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0a"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$pDU0w",
+      "name": "5. Sal",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB9X",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770550",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB9l",
+      "name": "GENERISK - STRUKTUREL 300 x 300:GENERISK - STRUKTUREL 300 x 300:2770552",
+      "type": "IfcColumn",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB9j",
+      "name": "GENERISK - STRUKTUREL 300 x 400:GENERISK - STRUKTUREL 300 x 400:2770554",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpL",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771138",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpK",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771139",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpJ",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2771140",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpI",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2771141",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpH",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771142",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpG",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2771143",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpV",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771144",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpU",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2771145",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpT",
+      "name": "Molio_Window_Single_Side Hung:1800x1479mm:2771146",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpn",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771174",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpm",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771175",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBp$",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771176",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBp_",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771177",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpz",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2771178",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpy",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771179",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpx",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771180",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpw",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771181",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpv",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771182",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpu",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2771183",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpd",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771184",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpc",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771185",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpb",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771186",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpa",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2771187",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpZ",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771188",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpY",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1810:2771189",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpX",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771190",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpW",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771191",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpl",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771192",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpk",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771193",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpi",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771195",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBph",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771196",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpg",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm:2771197",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpf",
+      "name": "Molio_Window_Single_Side Hung:1812x1479mm:2771198",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBpe",
+      "name": "Molio_Window_Single_Side Hung + Fixed:1812x1479mm 1312:2771199",
+      "type": "IfcWindow",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqN",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771200",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqM",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771201",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqL",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771202",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqK",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771203",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqJ",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771204",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqI",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771205",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqH",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771206",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqG",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771207",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqV",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771208",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqU",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771209",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqT",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771210",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqS",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771211",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqR",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2771212",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqQ",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2771213",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqP",
+      "name": "Basic Wall:_DK  Væg beton, 200 mm 200:1717:2771214",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqO",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771215",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBq7",
+      "name": "Basic Wall:_DK  Ydervæg, tegl/Beton, 588, 108/180 588:2771216",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqF",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771224",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqE",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771225",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqD",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771226",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqC",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771227",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqB",
+      "name": "Basic Wall:_DK  Væg gips, stålskelet, 30dB/BS30/2 lag 95 mm 95:2771228",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqA",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771229",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBq9",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2771230",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBq8",
+      "name": "321 Wall Mounted Sliding Door - No Frame:014 Solid Door_2100x1010:2771231",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqt",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771232",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqs",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2771233",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqr",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771234",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqq",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771235",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBlL",
+      "name": "Wall Sweep:Wall Cap",
+      "type": "IfcBuildingElementProxy",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "0FizqjRp12BwwVpvBxxra0",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2811756",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "2eMuQ_50T5bgi9SuaPPdfD",
+      "name": "Cast-In-Place Stair:Stair:2912907",
+      "type": "IfcStair",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "2eMuQ_50T5bgi9SuaPPdlj",
+      "name": "Cast-In-Place Stair:Stair:2912907 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2eMuQ_50T5bgi9SuaPPdfD"
+    },
+    {
+      "id": "2eMuQ_50T5bgi9SuaPPdlv",
+      "name": "Railing:011 Generic Railing_900 2:2913087",
+      "type": "IfcRailing",
+      "parent": "2eMuQ_50T5bgi9SuaPPdfD"
+    },
+    {
+      "id": "2eMuQ_50T5bgi9SuaPPdk5",
+      "name": "Railing:011 Generic Railing_1200:2913091",
+      "type": "IfcRailing",
+      "parent": "2eMuQ_50T5bgi9SuaPPdfD"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q0d",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2917014",
+      "type": "IfcCovering",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q0i",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2917021",
+      "type": "IfcCovering",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q0L",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2917028",
+      "type": "IfcCovering",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "11cJKknIf8Dwzpcx_X4Q0Q",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2917035",
+      "type": "IfcCovering",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "0rQhzT$qv27uF4MrOluppv",
+      "name": "Floor:[L]AC 4:3072753",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "0rQhzT$qv27uF4MrOlupp$",
+      "name": "Floor:[L]AC 5:3072759",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "0wy1ada21CzRuJF58F9u2m",
+      "name": "Railing:011 Generic Railing_1200:2907504",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6ul5",
+      "name": "Railing:011 Generic Railing_1200:2911606",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "3kzR$7dan5qfbhIzd$6uix",
+      "name": "Railing:011 Generic Railing_1200:2911624",
+      "type": "IfcRailing",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsB",
+      "name": "Rum nr. 505",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsA",
+      "name": "Rum nr. 507",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs9",
+      "name": "Rum nr. 515",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs8",
+      "name": "Rum nr. 510",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCm_",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916678",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBs8"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmx_",
+      "name": "Sink  570 mm:Sink  570 mm:2948117",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBs8"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJfZ",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105012",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBs8"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBst",
+      "name": "Rum nr. 513",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBss",
+      "name": "Rum nr. 504",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsr",
+      "name": "Rum nr. 514",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsq",
+      "name": "Rum nr. 503",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "3pw94VO$DDXvh0ldvOBgTe",
+      "name": "MOLIO-equipment1:MOLIO-Sink:2954530",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsq"
+    },
+    {
+      "id": "0DANGm4Bz3TeYqFUVh1p9o",
+      "name": "MOLIO-equipment5:MOLIO-Dish Washer:2962094",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsq"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVHm",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099502",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsq"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVHn",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099503",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsq"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVHk",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099504",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsq"
+    },
+    {
+      "id": "3FBwsZzDL2lRjjhS9nvVHl",
+      "name": "MOLIO-Furniture5:MOLIO-Furniture5:3099505",
+      "type": "IfcFurnishingElement",
+      "parent": "1XOPXNVaD7shCxHvEzuBsq"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsp",
+      "name": "Rum nr. 508",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBso",
+      "name": "Rum nr. 502",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsn",
+      "name": "Rum nr. 509",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCn7",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916671",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsn"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmxx",
+      "name": "Sink  570 mm:Sink  570 mm:2948112",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsn"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJfa",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105011",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsm",
+      "name": "Rum nr. 511",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "0dLegmQ09Ea8E3fBKPBCmr",
+      "name": "Compound Ceiling:351 Int. Suspended Ceiling Hygiene_50:2916685",
+      "type": "IfcCovering",
+      "parent": "1XOPXNVaD7shCxHvEzuBsm"
+    },
+    {
+      "id": "0aayfCLc57eP_W4xW_bmxp",
+      "name": "Sink  570 mm:Sink  570 mm:2948120",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsm"
+    },
+    {
+      "id": "2qlI5WI2H89Qjfzm6rDJfY",
+      "name": "M_Toilet-Domestic-3D:M_Toilet-Domestic-3D:3105013",
+      "type": "IfcFlowTerminal",
+      "parent": "1XOPXNVaD7shCxHvEzuBsm"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs$",
+      "name": "Rum nr. 516",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBs_",
+      "name": "Rum nr. 508.1",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsz",
+      "name": "Rum nr. 512",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "08r30YJ5HAcxsZINnbHgdy",
+      "name": "Rum nr. 506",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "08r30YJ5HAcxsZINnbHgdw",
+      "name": "Rum nr. 501",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$pDU0w"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$p3iHr",
+      "name": "6. Sal",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuB6y",
+      "name": "Basic Roof:[L]AE:2770347",
+      "type": "IfcRoof",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqp",
+      "name": "Basic Wall:_DK  Ydervæg, let, 338 238:2771236",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqo",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771237",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqn",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771238",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqm",
+      "name": "Basic Wall:_DK  Ydervæg, let, 338 238:2771239",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBq$",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771240",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBq_",
+      "name": "Basic Wall:_DK  Ydervæg, let, 387:2771241",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqz",
+      "name": "3 Double Door - Sqaured Frame:014 Solid Door_2100x1740:2771242",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqy",
+      "name": "Basic Wall:_DK  Ydervæg, beton, 396:2771243",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqx",
+      "name": "Basic Wall:_DK  Ydervæg, let, 338 238:2771244",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqw",
+      "name": "Basic Wall:_DK  Ydervæg, beton, 396:2771245",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqu",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771247",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqd",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x1010:2771248",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqc",
+      "name": "3 Single Door - Sqaured Frame:014 Solid Door_2100x910:2771249",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqb",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2771250",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBqa",
+      "name": "Basic Wall:_DK  Væg letbeton, 100 mm 100:2771251",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrK",
+      "name": "Basic Wall:_DK  Væg beton, 150 150:2771267",
+      "type": "IfcWallStandardCase",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1a2H36ymj9tx170ktR547t",
+      "name": "Floor:[L]AC:3073194",
+      "type": "IfcSlab",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "3yDVET7d9Aegnc9$ofRNsj",
+      "name": "321 Wall Mounted Sliding Door - No Frame:014 Solid Door_2100x1010:3102531",
+      "type": "IfcDoor",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsy",
+      "name": "Rum nr. 601",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsx",
+      "name": "Rum nr. 602.1",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBsw",
+      "name": "Rum nr. 603",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "08r30YJ5HAcxsZINnbHgdr",
+      "name": "Rum nr. 602",
+      "type": "IfcSpace",
+      "parent": "3fLR1gKkf5Nudky$$p3iHr"
+    },
+    {
+      "id": "3fLR1gKkf5Nudky$$p8n6O",
+      "name": "Tag",
+      "type": "IfcBuildingStorey",
+      "parent": "3fLR1gKkf5Nudky$yCs9sn"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHvEzuBrS",
+      "name": "Basic Roof:[L]AE:2771275",
+      "type": "IfcRoof",
+      "parent": "3fLR1gKkf5Nudky$$p8n6O"
+    },
+    {
+      "id": "1XOPXNVaD7shCxHv6zuBrS",
+      "name": "Basic Roof:[L]AE:2771275",
+      "type": "IfcSlab",
+      "parent": "1XOPXNVaD7shCxHvEzuBrS"
+    }
+  ]
+}
