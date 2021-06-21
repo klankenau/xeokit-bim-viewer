@@ -1,0 +1,23 @@
+{
+    "id": "molio",
+    "name": "Molio",
+    "models": [
+        {
+            "id": "design",
+            "name": "MOLIO-model_RVT"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}

@@ -5,8 +5,12 @@
       "name": "Duplex"
     },
     {
-      "id": "Unox",
-      "name": "Unox"
+      "id": "Molio",
+      "name": "Molio"
+    },
+    {
+      "id": "Layout",
+      "name": "Layout"
     },
     {
       "id": "Schependomlaan",
@@ -55,10 +59,6 @@
     {
       "id": "RevitSamples",
       "name": "Revit Samples"
-    },
-    {
-      "id": "ATB",
-      "name": "ATB"
     },
     {
       "id": "Two",

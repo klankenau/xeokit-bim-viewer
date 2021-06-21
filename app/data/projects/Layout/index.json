@@ -1,10 +1,10 @@
 {
-    "id": "unox",
-    "name": "Unox",
+    "id": "layout",
+    "name": "Layout",
     "models": [
         {
             "id": "design",
-            "name": "Duplex Design"
+            "name": "Layout Original 1"
         }
     ],
     "viewerConfigs": {
