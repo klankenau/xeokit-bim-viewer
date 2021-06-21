@@ -1,0 +1,23 @@
+{
+    "id": "unox",
+    "name": "Unox",
+    "models": [
+        {
+            "id": "design",
+            "name": "Duplex Design"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
