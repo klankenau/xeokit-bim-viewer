@@ -1,0 +1,24 @@
+{
+    "id": "ATB",
+    "name": "ATB",
+    "models": [
+        {
+            "id": "layout",
+            "name": "Layout Original 1"
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [0.9, 0.9, 1.0],
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "MOLIO-model_RVT",
+            "layout_original_1"
+        ]
+    },
+    "viewerState": {
+        "viewCubeEnabled": true,
+        "threeDEnabled": true,
+        "tabOpen": "models"
+    }
+}
